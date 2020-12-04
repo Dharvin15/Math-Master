@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Math Master 101</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct! Keep it up!</string>
+    <string name="incorrect_toast">Incorrect! Better luck next time :)</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_oceans">Sam is shopping for watermelons. She has $27 to spend, and each watermelon costs $4.50. TRUE or FALSE: She has enough money to buy an exact amount of watermelons without any money left over.</string>
+    <string name="question_mideast"> John, a pawnbroker, bought an antique lamp for $75. He sold it for $120. TRUE or FALSE: John made a 62.5% profit off the lamp.</string>
+    <string name="question_africa">If you have a basket of nine apples and you gave one to each of your six friends, you would have enough to give your brother, father, mother, and yourself a whole apple each.</string>
+    <string name="question_americas">A local contest is giving away a thousand dollars to a random person picked from a raffle. Your name is entered into the raffle once for every hundred dollars you spend at the local mall. Jamie bought a new TV, stereo, and couch for $200 each. There are a total of 597 other entries. TRUE or FALSE: The probability of Jamie winning the raffle is less than 1%.</string>
+    <string name="question_asia">There were seven people waiting at a bus stop for a ride on a bus. The stop is for Routes 12 and 17, which alternate. When Route 12 comes along, five people get on, and six get off. A third of the people that just got off of the bus are waiting to transfer to the next bus. TRUE or FALSE: There are currently four people waiting for bus Route 17.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Winners never cheat, and cheaters never win!</string>
+
+
+</resources>
